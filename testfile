@@ -1,0 +1,4 @@
+#this is my new project
+echo "this is my new project to test"
+pwd
+who
